@@ -1,3 +1,4 @@
+<img  align = "right"  width="400" src="[https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif](https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330)" alt="">
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 <hr/>
