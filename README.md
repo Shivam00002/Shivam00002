@@ -1,5 +1,5 @@
 
- <img  align = "left"  width="100" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="">
+ <img  align = "left"  width="100" src="https://w7.pngwing.com/pngs/674/193/png-transparent-google-s-hello-google-logo-google-search-say-hi.png" alt="">
  
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
