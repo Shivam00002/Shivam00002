@@ -3,7 +3,7 @@
  <div text-align = "left">
 <h1 > <img  width="40" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt=""> Hey! Nice to see you.</h1>
  <p>Welcome to my page!</p>
-<h4 >I'm Shivam Dubey, a Fullstack developer from  India, </h4>
+<h2 >I'm Shivam Dubey, a Fullstack developer from  India, </h2>
  <h3>Things I code with</h3>
  <img src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="">
  
