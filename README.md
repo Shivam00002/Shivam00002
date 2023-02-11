@@ -40,7 +40,11 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam00002&label=Profile%20views&color=0e75b6&style=flat" alt="shivam00002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_shivam_dubey_" target="blank"><img src="https://img.shields.io/twitter/follow/_shivam_dubey_?logo=twitter&style=for-the-badge" alt="_shivam_dubey_" /></a> </p>
+
  -->
+ <h2>## 🏆 GitHub Trophies 🏆</h2>
+ <p align="center"> <img margin="10px" src="https://github-profile-trophy.vercel.app/?username=shivam00002&theme=algolia" alt="Trophy" /></p>
+ 
 - <h1>About Me: </h1>
  <div> 💬 Ask me about JavaScript,  HTML, CSS, React, Redux, DSA </div>
  <div>💻 All of my projects are available at My <a href="https://github.com/Shivam00002?tab=repositories">Github Repositories</a></div>
