@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://shivam00002.github.io)
+[![MasterHead](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)](https://shivam00002.github.io)
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
