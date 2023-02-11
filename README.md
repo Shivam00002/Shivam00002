@@ -42,11 +42,11 @@
 <p align="left"> <a href="https://twitter.com/_shivam_dubey_" target="blank"><img src="https://img.shields.io/twitter/follow/_shivam_dubey_?logo=twitter&style=for-the-badge" alt="_shivam_dubey_" /></a> </p>
  -->
 - <h1>About Me: </h1>
- <div> 💬 Ask me about JavaScript,  HTML, CSS, React, DSA </div>
- <div>💻 All of my projects are available at My <a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a></div>
+ <div> 💬 Ask me about JavaScript,  HTML, CSS, React, Redux, DSA </div>
+ <div>💻 All of my projects are available at My <a href="https://github.com/Shivam00002?tab=repositories">Github Repositories</a></div>
  
   - 📫 How to reach me *dubey02shiv@gmail.com*
-- 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
+- 📄 <a href="https://drive.google.com/file/d/1BUuSRcrc25LMhaJbMnHJkZWzTXdpCChq/view?usp=sharing">Resume</a> 
 - 📄 <a href="https://shivam00002.github.io/">Portfolio </a> <br/>
 - 📄  <a href="https://www.linkedin.com/in/shivam-dubey-6127b4236/"> LinkedIn </a> 
 - 📄 <a href="https://twitter.com/_Shivam_Dubey_"> twitter </a>
