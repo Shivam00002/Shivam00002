@@ -44,9 +44,16 @@
  <div></div>
 - <h1>About Me: </h1>
  <div> 💬 Ask me about JavaScript,  HTML, CSS, React, Redux, DSA </div>
- <div>💻 All of my projects are available at My <a href="https://github.com/Shivam00002?tab=repositories">Github Repositories</a></div>
+ <div>💻 All of my projects are available at My <a href="https://github.com/Shivam00002?tab=repositories">Github Repositories</a>
+
  
- <div style={margin-top = "5px"} > <img margin="10px" align = "right"  width="400" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt=""></div>
+ 
+  <div style={margin-top = "5px"} > <img margin="10px" align = "right"  width="400" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt=""></div>
+
+
+</div>
+ 
+
  
   - 📫 How to reach me *dubey02shiv@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/1BUuSRcrc25LMhaJbMnHJkZWzTXdpCChq/view?usp=sharing">Resume</a> 
