@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://sumansauravmay.github.io)
-<h1 align="center">Hi 👋, I'm Suman Saurav</h1>
+<h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
@@ -7,18 +7,15 @@
 # 💫 About Me:
 - 🌱 I’m currently learning *Frontend Technology*
 
-- 👨‍💻 All of my projects are available at [https://sumansauravmay.github.io/](https://sumansauravmay.github.io/)
+- 👨‍💻 All of my projects are available at [https://shivam00002.github.io/](https://github.com/Shivam00002?tab=repositories)
 
 - 💬 Ask me about *HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript*
 
-- 📫 How to reach me *sumansauravmay12345@gmail.com*
-- 📄 <a href="https://drive.google.com/file/d/1d9v40G0kmg4YdU5Tk1duJJe1QE3ViFll/view?usp=sharing">Resume</a>    
-- 📄 <a href="https://sumansauravmay.github.io/">Portfolio</a> 
-- 📄 <a href="https://www.linkedin.com/in/suman-saurav-06896b231/">LinkedIn</a> 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-saurav-06896b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-saurav-06896b231/" height="30" width="40" /></a>
-</p> -->
+- 📫 How to reach me *dubey02shiv@gmail.com*
+- 📄 <a href="https://drive.google.com/drive/my-drive">Resume</a>    
+- 📄 <a href="https://shivam00002.github.io/">Portfolio</a> 
+- 📄 <a href="https://www.linkedin.com/in/shivam-dubey-6127b4236/">LinkedIn</a> 
+
 
 <h2 align="left">Languages and Tools</h2>
 
@@ -26,16 +23,16 @@
 
 # 📊 GitHub Stats
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansauravmay&show_icons=true&locale=en&layout=compact" alt="sumansaurav" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam00002&show_icons=true&locale=en&layout=compact" alt="shivamdubey" /></p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansauravmay&show_icons=true&locale=en" alt="sumansauravmay" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam00002&show_icons=true&locale=en" alt="shivamdubey" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansauravmay" alt="sumansauravmay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam00002" alt="shivamdubey" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansauravmay" alt="Trophy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam00002" alt="Trophy" /></a> </p>
 
 
 ### ✍ Random Dev Quote
