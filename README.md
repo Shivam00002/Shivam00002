@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)](https://shivam00002.github.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEQ3s7DF7Uq0A/profile-displaybackgroundimage-shrink_350_1400/0/1669706767053?e=1681344000&v=beta&t=3p4SzWYhp5kz7JRD5-BNwdYcM3c6HgaQF4W1XuVZmsw)](https://shivam00002.github.io)
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
