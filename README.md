@@ -37,10 +37,10 @@
 
  <img  align = "right"  width="400" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam00002&label=Profile%20views&color=0e75b6&style=flat" alt="shivam00002" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam00002&label=Profile%20views&color=0e75b6&style=flat" alt="shivam00002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_shivam_dubey_" target="blank"><img src="https://img.shields.io/twitter/follow/_shivam_dubey_?logo=twitter&style=for-the-badge" alt="_shivam_dubey_" /></a> </p>
-
+ -->
 - <h1>About Me: </h1>
  <div> 💬 Ask me about JavaScript,  HTML, CSS, React, DSA </div>
  <div>💻 All of my projects are available at My <a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a></div>
