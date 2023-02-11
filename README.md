@@ -1,5 +1,5 @@
 
- <p align="center"><img width="100%" src="https://readme-typing-svg.demolab.com/?lines= Hii' I am Bihari Yadav;Welcome To My Github Profile"/></p>
+
  <div text-align = "left">
 <h1 > <img  width="40" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt=""> Hey! Nice to see you.</h1>
  <h2>Welcome to my page!</h2>
@@ -41,7 +41,15 @@
 
 <p align="left"> <a href="https://twitter.com/_shivam_dubey_" target="blank"><img src="https://img.shields.io/twitter/follow/_shivam_dubey_?logo=twitter&style=for-the-badge" alt="_shivam_dubey_" /></a> </p>
 
-- 📫 How to reach me **dubey02shiv@gmail.com**
+- <h1>About Me: </h1>
+ <div> 💬 Ask me about JavaScript,  HTML, CSS, React, DSA </div>
+ <div>💻 All of my projects are available at My <a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a></div>
+ 
+  - 📫 How to reach me *yadav06bihari@gmail.com*
+- 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
+- 📄 <a href="https://bl1997.github.io/">Portfolio </a> <br/>
+- 📄  <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/"> LinkedIn </a> 
+- 📄 <a href="https://twitter.com/yadav06bihari"> twitter </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
