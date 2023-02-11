@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://sumansauravmay.github.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://shivam00002.github.io)
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shivam00002.github.io/](https://github.com/Shivam00002?tab=repositories)
 
-- 💬 Ask me about *HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript*
+- 💬 Ask me about *HTML,CSS,JavaScript,React,Next.js,Redux,Typescript*
 
 - 📫 How to reach me *dubey02shiv@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/1BUuSRcrc25LMhaJbMnHJkZWzTXdpCChq/view?usp=sharing">Resume</a>    
