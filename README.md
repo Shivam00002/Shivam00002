@@ -31,9 +31,9 @@
 </div>
 
 
+<div marginTop = "90px> <img margin="10px" align = "right"  width="400" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt=""></div>
 
 
- <img margin="10px" align = "right"  width="400" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam00002&label=Profile%20views&color=0e75b6&style=flat" alt="shivam00002" /> </p>
 
