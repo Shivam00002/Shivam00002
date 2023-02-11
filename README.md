@@ -49,7 +49,7 @@
 - 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
 - 📄 <a href="https://shivam00002.github.io/">Portfolio </a> <br/>
 - 📄  <a href="https://www.linkedin.com/in/shivam-dubey-6127b4236/"> LinkedIn </a> 
-- 📄 <a href="https://twitter.com/yadav06bihari"> twitter </a>
+- 📄 <a href="https://twitter.com/_Shivam_Dubey_"> twitter </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
