@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQEQ3s7DF7Uq0A/profile-displaybackgroundimage-shrink_350_1400/0/1669706767053?e=1681344000&v=beta&t=3p4SzWYhp5kz7JRD5-BNwdYcM3c6HgaQF4W1XuVZmsw)](https://shivam00002.github.io)
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
-<h3 align="center">A passionate Full Stack Web Developer </h3>
+<h3 align="center">A passionate Full Stack Web Developer   </h3>
 
 <img width="400" align="right" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="animated"/>
 
