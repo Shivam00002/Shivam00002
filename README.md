@@ -14,7 +14,7 @@
 - 📫 How to reach me *dubey02shiv@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/1BUuSRcrc25LMhaJbMnHJkZWzTXdpCChq/view?usp=sharing">Resume</a>    
 - 📄 <a href="https://shivam00002.github.io/">Portfolio</a> 
-- 📄 <a href="https://www.linkedin.com/in/shivam-dubey-6127b4236/"> LinkedIn</a> 
+- 📄 <a href="https://www.linkedin.com/in/shivam-dubey-6127b4236/">    LinkedIn</a> 
 
 
 <h2 align="left">Languages and  Tools </h2>
