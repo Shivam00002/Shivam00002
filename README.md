@@ -9,8 +9,6 @@
 
 
 
-
-
 # 💫 About Me:
 - 🌱 I’m currently learning *Frontend   Technology*
 
