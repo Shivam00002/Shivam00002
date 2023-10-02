@@ -8,8 +8,6 @@
 # 💫 About Me:
 - 🌱 I’m currently learning *Frontend   Technology*
 
-
-
 - 👨‍💻 All of my projects     are available at [https://shivam00002.github.io/](https://github.com/Shivam00002?tab=repositories)
 
 - 💬 Ask me about *HTML,CSS,JS,React,Next.js,Redux,Typescript*
@@ -18,7 +16,6 @@
 - 📄 <a href="https://drive.google.com/file/d/1BUuSRcrc25LMhaJbMnHJkZWzTXdpCChq/view?usp=sharing">Resume</a>    
 - 📄 <a href="https://shivam00002.github.io/">Portfolio</a> 
 - 📄 <a href="https://www.linkedin.com/in/shivam-dubey-6127b4236/">    LinkedIn</a> 
-
 
 <h2 align="left">Languages and  Tools         </h2>
 
