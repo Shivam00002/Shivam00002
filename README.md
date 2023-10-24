@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEQ3s7DF7Uq0A/profile-displaybackgroundimage-shrink_350_1400/0/1669706767053?e=1681344000&v=beta&t=3p4SzWYhp5kz7JRD5-BNwdYcM3c6HgaQF4W1XuVZmsw)](https://shivam00002.github.io)
+[![MasterHead](https://marketplace.canva.com/EAFHlPbzjjU/1/0/1600w/canva-blue-geometric-technology-linkedin-banner-eKcdAHuoluc.jpg)](https://shivam00002.github.io)
 <h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
 <h3 align="center">A passionate Full Stack Web Developer  </h3>
 
