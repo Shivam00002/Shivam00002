@@ -9,8 +9,6 @@
 - 💬 Ask me about *HTML,CSS,JS,React,Next.js,Redux,Typescript*
 - 📫 How to reach me
 - 
-
-
  *dubey02shiv@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/1BUuSRcrc25LMhaJbMnHJkZWzTXdpCChq/view?usp=sharing">Resume</a>    
 - 📄 <a href="https://shivam00002.github.io/">Portfolio</a> 
